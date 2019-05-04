@@ -55,6 +55,7 @@ function ${compName}(props) {
     <div></div>
   )
 }
+
 export default ${compName};
 `;
   }
