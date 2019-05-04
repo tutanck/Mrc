@@ -1,0 +1,64 @@
+{
+  "_from": "react-component-scaffold",
+  "_id": "react-component-scaffold@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-sumnrZRdU8vLFCyBFI+Dhj93Hrh7RHmtvlD30vU0dPcu7ynNjon2OvKSPlFiFhQ1+fF+S7HFORMuAegASoFYHQ==",
+  "_location": "/react-component-scaffold",
+  "_phantomChildren": {
+    "camelcase": "5.3.1",
+    "cliui": "4.1.0",
+    "decamelize": "1.2.0",
+    "emoji-regex": "7.0.3",
+    "find-up": "3.0.0",
+    "is-fullwidth-code-point": "2.0.0",
+    "os-locale": "3.1.0",
+    "require-directory": "2.1.1",
+    "require-main-filename": "2.0.0",
+    "set-blocking": "2.0.0",
+    "which-module": "2.0.0",
+    "y18n": "4.0.0"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-component-scaffold",
+    "name": "react-component-scaffold",
+    "escapedName": "react-component-scaffold",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-component-scaffold/-/react-component-scaffold-1.0.6.tgz",
+  "_shasum": "b39a11a839fad02e444a670f917260a3e31769b5",
+  "_spec": "react-component-scaffold",
+  "_where": "/Users/joan/Github/rcs",
+  "author": {
+    "name": "Michael Verdi"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "node-fs": "^0.1.7",
+    "yargs": "^13.2.2"
+  },
+  "deprecated": false,
+  "description": "Automatically generate state and stateless component folder structures from the command line",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "react",
+    "scaffold",
+    "generator"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-component-scaffold",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "version": "1.0.6"
+}
