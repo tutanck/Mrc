@@ -1,6 +1,6 @@
 {
   "name": "@tutanck/mrc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple functional React components generator",
   "main": "index.js",
   "scripts": {
