@@ -29,7 +29,7 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "node-fs": "^0.1.7",
-    "yargs": "^13.2.2"
+    "node-fs": "0.1.7",
+    "yargs": "13.2.2"
   }
 }
