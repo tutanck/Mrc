@@ -1,34 +1,36 @@
 # Mrc : Make React Component
 
-Mrc generates simple functional React components #useHooks
+Mrc generates simple React function components. #useHooks
 
 ## Installation
 
 > npm i -g @tutanck/mrc
+---
 
-## Why
-
-Coz am lazy !
 
 ## Usage
 
-> mrc componentName /path/to/subfolder
+> mrc __ComponentName__ _/path/to/subfolder_
 
-## Bla Bla
+---
 
-The command takes 1 required arg and 1 optional arg.
 
-Where
+## Arguments
 
-- componentName is required
-- path/to/subfolder is optional nested component within your /src dir
+The command takes 1 required arg and 1 optional arg : 
+
+- __componentName__ is __required__.
+- _path/to/subfolder_ is _optional_     
+    and represents the path to the component inside the _/src_ directory.
+
+---
 
 ## Examples
 
 - `mrc FooBar`
 
-  > Create a functional component 'FooBar' inside of '/src' folder
+  > Creates a function component 'FooBar' inside the '/src' directory.
 
-- `mrc FooBar /Components`
+- `mrc FooBar /components`
 
-  > Creates a functional component 'FooBar' inside of 'src/Components'
+  > Creates a functional component 'FooBar' inside the 'src/components' directory.
