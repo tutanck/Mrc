@@ -18,7 +18,7 @@
     return;
   }
 
-  if (path && !/[\/]/.test(path)) {
+  if (path && !/^[\/]/.test(path)) {
     console.log(
       `[ERROR]: Must supply a valid path starting with '/' (ex: /some/sub/Folder).`
     );
@@ -52,7 +52,7 @@
   
 function ${compName}(props) {
   return (
-    <div></div>
+    <></>
   )
 }
 
