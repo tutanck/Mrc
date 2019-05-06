@@ -5,7 +5,6 @@ Mrc generates simple React function components. #useHooks
 ## Installation
 
 > npm i -g @tutanck/mrc
----
 
 
 ## Usage
